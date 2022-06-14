@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git repo link](https://github.com/Plut0r/sunnyville-landing-page)
-- Live Site URL: [Git live link](https://your-live-site-url.com)
+- Live Site URL: [Git live link](https://plut0r.github.io/sunnyville-landing-page/)
 
 ### Built with
 
