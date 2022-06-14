@@ -46,6 +46,10 @@ a {
 button {
     border-radius: 1rem;
     background-color: var(--white);
+    color: black;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    cursor: pointer;
 }
 .ab {
     color: black;
